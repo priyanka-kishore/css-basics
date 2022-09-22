@@ -9,4 +9,4 @@ Main concepts to get up to speed for work:
 - [ ] [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
   - [ ] [Flexbox Froggy game](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
-  - [ ] [Grid Gargen game](https://www.cssgridgarden.com)
+  - [ ] [Grid Garden game](https://www.cssgridgarden.com)
