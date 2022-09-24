@@ -7,6 +7,6 @@ Main concepts to get up to speed for work:
 - [x] [Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 - [x] [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [x] [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-  - [ ] [Flexbox Froggy game](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+  - [ ] [Flexbox Froggy game](https://flexboxfroggy.com/)
 - [ ] [Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
   - [ ] [Grid Garden game](https://www.cssgridgarden.com)
